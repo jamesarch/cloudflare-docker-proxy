@@ -14,7 +14,7 @@ const routes = {
   ["k8s." + "lefix.me"]: "https://registry.k8s.io",
   ["ghcr." + "lefix.me"]: "https://ghcr.io",
   ["cloudsmith." + "lefix.me"]: "https://docker.cloudsmith.io",
-  ["ecr." + "lefix.me": "https://public.ecr.aws",
+  ["ecr." + "lefix.me"]: "https://public.ecr.aws",
 
   // staging
   ["docker-staging." + "lefix.me"]: dockerHub,
